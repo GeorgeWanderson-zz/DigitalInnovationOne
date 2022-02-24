@@ -1,0 +1,16 @@
+C:\Users\geowa\Documents\dioproj\bin\Debug\net5.0\dioproj.exe
+C:\Users\geowa\Documents\dioproj\bin\Debug\net5.0\dioproj.deps.json
+C:\Users\geowa\Documents\dioproj\bin\Debug\net5.0\dioproj.runtimeconfig.json
+C:\Users\geowa\Documents\dioproj\bin\Debug\net5.0\dioproj.runtimeconfig.dev.json
+C:\Users\geowa\Documents\dioproj\bin\Debug\net5.0\dioproj.dll
+C:\Users\geowa\Documents\dioproj\bin\Debug\net5.0\ref\dioproj.dll
+C:\Users\geowa\Documents\dioproj\bin\Debug\net5.0\dioproj.pdb
+C:\Users\geowa\Documents\dioproj\obj\Debug\net5.0\dioproj.csproj.AssemblyReference.cache
+C:\Users\geowa\Documents\dioproj\obj\Debug\net5.0\dioproj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geowa\Documents\dioproj\obj\Debug\net5.0\dioproj.AssemblyInfoInputs.cache
+C:\Users\geowa\Documents\dioproj\obj\Debug\net5.0\dioproj.AssemblyInfo.cs
+C:\Users\geowa\Documents\dioproj\obj\Debug\net5.0\dioproj.csproj.CoreCompileInputs.cache
+C:\Users\geowa\Documents\dioproj\obj\Debug\net5.0\dioproj.dll
+C:\Users\geowa\Documents\dioproj\obj\Debug\net5.0\ref\dioproj.dll
+C:\Users\geowa\Documents\dioproj\obj\Debug\net5.0\dioproj.pdb
+C:\Users\geowa\Documents\dioproj\obj\Debug\net5.0\dioproj.genruntimeconfig.cache
